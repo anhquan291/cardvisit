@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351782362157",
+    "project_id": "cardvisit-bc683",
+    "storage_bucket": "cardvisit-bc683.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351782362157:android:6b0abb91ffd4b5f73beca4",
+        "android_client_info": {
+          "package_name": "com.cardvisit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Ud_IOETaJRE9_JeEu6Vx_wzc5P5phvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
